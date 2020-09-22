@@ -4,7 +4,7 @@ body {background-color: #197A56;
 }
 
 .hlavicka
-  {background-image: url(kytky.jpg);
+  {background-image: url ‘kytky.jpg‘;
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
