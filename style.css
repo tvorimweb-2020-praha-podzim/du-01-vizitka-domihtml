@@ -57,4 +57,9 @@ a {
 footer a {
   border: 4px outset #197A56;
   padding: 0.2rem;
+  text-decoration: none;
+  background-color: #9c89b8;
+}
+footer a:hover, footer a:active {
+  border: 4px inset #197A56;
 }
