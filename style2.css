@@ -6,14 +6,20 @@ body {
 
 header li {
     display: inline-block;
-    background-color: gainsboro;
   }
-  
+
+ul {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 4rem;
+    margin-top: 10rem;
+  }
+
 img{
     width: 60px;
     height: auto;
-    border: none;
-  
+    border-width: 0;
+    border-radius: 50%;
   }
 
 h1 {
@@ -25,8 +31,4 @@ h1 {
     text-shadow: 1px 2px 10px #93BA9B;
 }
 
-ul {
-  background-color: #eeeeeeb0;
-  text-align: center;
-  padding: 4rem;
-}
+
