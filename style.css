@@ -22,7 +22,7 @@ h1
 }
 .omne {
   font-family: 'Montserrat', sans-serif;
-  font-size: 20pt;
+  font-size: 1.8rem;
   font-weight: lighter;
   line-height: 1.875rem;
   color:#93BA9B;
@@ -52,4 +52,9 @@ footer img {width: 40px;
 }
 a {
   color:#09092B;
+}
+
+footer a {
+  border: 4px outset #197A56;
+  padding: 0.2rem;
 }
