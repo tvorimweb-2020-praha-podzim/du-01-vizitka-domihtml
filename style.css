@@ -48,8 +48,7 @@ header img {width: 25%;
          border-top: 3px inset whitesmoke;
 }
 
-footer img {width: 40px;
-}
+
 a {
   color:#09092B;
 }
@@ -63,3 +62,4 @@ footer a {
 footer a:hover, footer a:active {
   border: 4px inset #197A56;
 }
+
