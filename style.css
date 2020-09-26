@@ -8,13 +8,13 @@ body {background-color: #197A56;
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
-  padding: 80px;
+  padding: 5rem;
   border-bottom: 3px groove whitesmoke;
 }
 
 h1 
   {text-align: center;
-  font-size: 60px;
+  font-size: 3.75rem;
   font-weight: normal;
   color:white;
   font-family: 'Montserrat', sans-serif;
@@ -24,26 +24,26 @@ h1
   font-family: 'Montserrat', sans-serif;
   font-size: 20pt;
   font-weight: lighter;
-  line-height: 30px;
+  line-height: 1.875rem;
   color:#93BA9B;
-  margin: 70px 50px 100px 50px;
-  padding: 4px;
+  margin: 4.375rem 3.125rem 6.25rem 3.125rem;
+  padding: 0.25rem;
   text-align: left;
 }
 
 header img {width: 25%;
   border-radius: 50%;
   float: left;
-  margin-left: 15px;
-  margin-bottom: 100px;
-  margin-top: 40px;
-  margin-right: 50px;
+  margin-left: 0.938rem;
+  margin-bottom: 6.25rem;
+  margin-top: 2.5rem;
+  margin-right: 3.125rem;
   border: 3px solid whitesmoke ;
  
 }
 .paticka { background-color: whitesmoke;
          margin:0;
-         padding: 30px;
+         padding: 1.875rem;
          text-align: center;
          border-top: 3px inset whitesmoke;
 }
